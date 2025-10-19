@@ -16,7 +16,7 @@ How to Use
 
     Clone or Download the Script
 
-    Ensure you have Python 3.x installed. Save the script into a file, e.g., text_shift.py.
+    Ensure you have Python 3.x installed. Save the script into a file, e.g., ceasar_cipher.py
 
     Run the Script
 
