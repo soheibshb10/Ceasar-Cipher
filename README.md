@@ -24,7 +24,7 @@ How to Use
 
     bash
 
-python text_shift.py
+python ceasar_cipher.py 
 
 Input Text
 
